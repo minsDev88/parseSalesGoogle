@@ -1,0 +1,410 @@
+201308 Thu Aug 22 16:17:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+201308 Thu Aug 22 16:18:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+201308 Thu Aug 22 16:19:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Thu Aug 22 2013 16:19:04 GMT+0900 (KST)
+201308 Thu Aug 22 16:20:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Thu Aug 22 2013 16:20:04 GMT+0900 (KST)
+201308 Thu Aug 22 16:21:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Thu Aug 22 2013 16:21:04 GMT+0900 (KST)
+201308 Fri Aug 23 01:01:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Fri Aug 23 2013 01:01:04 GMT+0900 (KST)
+201308 Sat Aug 24 01:01:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Sat Aug 24 2013 01:01:05 GMT+0900 (KST)
+1383717863158180 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -1, money: -24000, remain: 0, refundCount: 1 } }
+1346438378616773 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -2, money: -48000, remain: 0, refundCount: 2 } }
+1323021260851033 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: -1,
+     money: -24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 1 } }
+1371463070894668 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1371133812207177 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1316032766113919 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 1,
+     money: 24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 3 } }
+1301813843529520 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+1302265205846817 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 2, money: 17800, remain: 0, chargeCount: 2 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+201308 Sun Aug 25 01:01:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Sun Aug 25 2013 01:01:05 GMT+0900 (KST)
+1383717863158180 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -1, money: -24000, remain: 0, refundCount: 1 } }
+1346438378616773 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -2, money: -48000, remain: 0, refundCount: 2 } }
+1323021260851033 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: -1,
+     money: -24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 1 } }
+1371463070894668 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1371133812207177 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1316032766113919 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 1,
+     money: 24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 3 } }
+1301813843529520 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+1302265205846817 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 2, money: 17800, remain: 0, chargeCount: 2 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+201308 Mon Aug 26 01:01:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Mon Aug 26 2013 01:01:05 GMT+0900 (KST)
+1383717863158180 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -1, money: -24000, remain: 0, refundCount: 1 } }
+1346438378616773 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -2, money: -48000, remain: 0, refundCount: 2 } }
+1323021260851033 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: -1,
+     money: -24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 1 } }
+1371463070894668 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1371133812207177 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1316032766113919 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 1,
+     money: 24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 3 } }
+1301813843529520 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+1302265205846817 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 2, money: 17800, remain: 0, chargeCount: 2 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+201308 Tue Aug 27 01:01:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Tue Aug 27 2013 01:01:05 GMT+0900 (KST)
+201308 Wed Aug 28 01:01:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Wed Aug 28 2013 01:01:05 GMT+0900 (KST)
+1383717863158180 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -1, money: -24000, remain: 0, refundCount: 1 } }
+1346438378616773 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -2, money: -48000, remain: 0, refundCount: 2 } }
+1323021260851033 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: -1,
+     money: -24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 1 } }
+1371463070894668 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1371133812207177 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1316032766113919 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 1,
+     money: 24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 3 } }
+1301813843529520 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+1302265205846817 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 2, money: 17800, remain: 0, chargeCount: 2 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+201308 Thu Aug 29 01:01:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Thu Aug 29 2013 01:01:05 GMT+0900 (KST)
+1383717863158180 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -1, money: -24000, remain: 0, refundCount: 1 } }
+1346438378616773 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -2, money: -48000, remain: 0, refundCount: 2 } }
+1323021260851033 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: -1,
+     money: -24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 1 } }
+1371463070894668 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1371133812207177 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1316032766113919 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 1,
+     money: 24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 3 } }
+1301813843529520 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+1302265205846817 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 2, money: 17800, remain: 0, chargeCount: 2 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+201308 Fri Aug 30 01:01:01 KST 2013
+Archive:  /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.zip
+  inflating: /home/cdn/analytics/parseSalesGoogle/input/salesreport_201308.csv  
+Write Sale Report Fri Aug 30 2013 01:01:05 GMT+0900 (KST)
+1383717863158180 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -1, money: -24000, remain: 0, refundCount: 1 } }
+1346438378616773 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Refund { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: -2, money: -48000, remain: 0, refundCount: 2 } }
+1323021260851033 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: -1,
+     money: -24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 1 } }
+1371463070894668 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1371133812207177 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': { count: 0, money: 0, remain: 0, refundCount: 2, chargeCount: 2 } }
+1316032766113919 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 1,
+     money: 24000,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 3 } }
+1301813843529520 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_fullpack Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 1, money: 8900, remain: 0, chargeCount: 1 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
+1302265205846817 2013-08-22 com.uangel.tomokidsJaduVodSeason1 com.uangel.tomokids_kth_jadu_s1_pack1_1 Charged { 'com.uangel.tomokids_kth_jadu_s1_pack1_1': { count: 2, money: 17800, remain: 0, chargeCount: 2 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_2': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_3': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_pack1_4': { count: 0, money: 0, remain: 0 },
+  'com.uangel.tomokids_kth_jadu_s1_fullpack': 
+   { count: 2,
+     money: 45370,
+     remain: 0,
+     refundCount: 2,
+     chargeCount: 4 } }
